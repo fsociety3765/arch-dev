@@ -28,6 +28,7 @@ PKGS=(
   'webstorm'
   'dotpeek'
   'vscodium-bin'
+  'jdk-openjdk'
 )
 
 for PKG in "${PKGS[@]}"; do
